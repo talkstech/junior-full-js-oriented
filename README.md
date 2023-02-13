@@ -1,0 +1,1 @@
+# junior-full-js-oriented
